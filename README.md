@@ -42,6 +42,8 @@ iOS and Android.
 Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
 library that underpins Chrome and Android: [Skia]. We architected Flutter to
 support glitch-free, jank-free graphics at the native speed of your device.
+Thanks to it's amazing features like hot reload and hot restart it becomes so
+easy to add and view changes into your app.
 Flutter code is powered by the world-class [Dart platform], which enables
 compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
 as JavaScript for the web and Intel x64 for desktop devices.
